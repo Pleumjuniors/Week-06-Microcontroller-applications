@@ -205,6 +205,7 @@ ls build/
 idf.py size
 
 # บันทึกภาพตาราง ใส่ในไฟล์ส่งงาน
+<img width="611" height="307" alt="image" src="https://github.com/user-attachments/assets/a27f0476-93da-45ac-a706-160918b7e881" />
 
 # ดูรายละเอียดขนาดตาม component
 idf.py size-components

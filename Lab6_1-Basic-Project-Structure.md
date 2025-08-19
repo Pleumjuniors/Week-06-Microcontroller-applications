@@ -334,6 +334,7 @@ void app_main(void)
 
 
 บันทึกผลการ simulate ในโฟลเดอร์ส่งงาน
+<img width="1828" height="1030" alt="image" src="https://github.com/user-attachments/assets/875270b9-f5e2-46ef-af9e-428ed5b17f77" />
 
 
 ## 🔍 คำถามทบทวน
